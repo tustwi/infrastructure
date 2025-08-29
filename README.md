@@ -6,7 +6,7 @@ Repository to support configuration of infrastructure components
     - Ansible plays and tasks
     - System support scripts
 
-## Git Usage
+## Git Usage - command line examples
 
 ```bash
 # Clone the repository
