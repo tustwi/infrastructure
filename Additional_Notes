@@ -1,0 +1,18 @@
+## Git Usage - command line examples
+
+```bash
+# Clone the repository
+git clone https://github.com/your-org/infrastructure.git
+
+# Check status
+git status
+
+# Add changes
+git add .
+
+# Commit changes
+git commit -m "Describe your change"
+
+# Push to remote
+git push
+```
